@@ -74,29 +74,29 @@ footer {
     width: 100%;
     display: block;
   }
-  
+
   .step-box {
     width: 90%;
     margin: 0 auto;
     margin-bottom: 20px;
-    
+
   }
-  
+
   .step-box:last-child {
     margin: 0 auto;
     margin-bottom: 0;
   }
-  
+
   .step-num {
     padding: 2px;
   }
-  
+
   .title {
     padding: 2px 0;
   }
-  
-  
-  
+
+
+
   footer {
     width: 100%;
   }

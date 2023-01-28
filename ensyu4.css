@@ -6,21 +6,21 @@
 
 .header {
   width: 100%; 
-  height: 550px; 
-  background-color: orange; 
+  height: 50px; 
+  background-color: red; 
 }
 
-.header-top {
+.main-visual {
   width: 100%;
-  height: 50px;
-  background-color: red; 
+  height: 500px;
+  background-color: orange; 
 }
 
 .main {
   width: 960px;
-  margin: 0 auto;
   display: flex;
   justify-content: center;
+  margin: 0 auto;
 }
 
 .main-left {
